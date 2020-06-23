@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Nullam dignissim
+title: How much does it cost?
 image: images/pic03.jpg
 style: wrapper spotlight style3
 id: three
-tagline: Lorem ipsum dolor sit amet, etiam lorem adipiscing elit. Cras turpis ante, nullam sit amet turpis non, sollicitudin posuere urna. Mauris id tellus arcu. Nunc vehicula id nulla dignissim dapibus. Nullam ultrices, neque et faucibus viverra, ex nulla cursus.
+tagline: The basic fee is $100 for a session. Most people find that 5 sessions is transformative and move forward from there so I have a discount of $400 for 5 sessions if you sign up for all 5 up front. I've found that everyone is different so payment plans can be worked out in person.
 category: blog
 ---
