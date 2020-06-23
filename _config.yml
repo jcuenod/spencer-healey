@@ -6,9 +6,9 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: This is Solid State
+title: Spencer Healey / ADHD Coach
 description: > # this means to ignore newlines until "baseurl:"
-  Another free + fully responsive site template by HTML5 UP
+  You deserve a life where <i>you</i> are in <a href=#>control</a>
 postsTitle: Vitae phasellus
 postsDescription: Cras mattis ante fermentum, malesuada neque vitae, eleifend erat.
                   Phasellus non pulvinar erat. Fusce tincidunt, nisl eget mattis egestas,
@@ -19,12 +19,12 @@ contactDescription: Cras mattis ante fermentum, malesuada neque vitae, eleifend 
                     Phasellus non pulvinar erat. Fusce tincidunt, nisl eget mattis egestas,
                     purus ipsum consequat orci, sit amet lobortis lorem lacus in tellus.
                     Sed ac elementum arcu. Quisque placerat auctor laoreet.
-baseurl: "/html5up-solid-state" # the subpath of your site, e.g. /blog
-url: "https://lufevida.github.io" # the base hostname & protocol for your site
+baseurl: "/spencer-healey" # the subpath of your site, e.g. /blog
+url: "https://jcuenod.github.io" # the base hostname & protocol for your site
 copyright: Copyright Owner
 # Contact info
-email: youremail@yourdomain.com
-twitter: joe
+email: spencer@yourdomain.com
+twitter: spencer
 facebook: joe
 instagram: joe
 youtube: joe

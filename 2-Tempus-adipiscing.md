@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Tempus adipiscing
+title: What is ADHD Coaching?
 image: images/pic02.jpg
 style: wrapper alt spotlight style2
 id: two
-tagline: Lorem ipsum dolor sit amet, etiam lorem adipiscing elit. Cras turpis ante, nullam sit amet turpis non, sollicitudin posuere urna. Mauris id tellus arcu. Nunc vehicula id nulla dignissim dapibus. Nullam ultrices, neque et faucibus viverra, ex nulla cursus.
+tagline: When I sit down to work, I immediately feel tired. I decide to make tea. I remember something interesting I wanted to read. I find myself watching a youtube video about investment or making a website for a friend. Focus is a limited resource. ADHD Coaching helped me to channel it and maximise my focus on the things that matter to me.
 category: blog
 ---
